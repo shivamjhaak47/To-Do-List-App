@@ -5,11 +5,17 @@ The To-Do List Application is a web-based productivity tool designed to help use
 
 #1__HTML Structure:
 The HTML structure forms the foundation of the To-Do List Application. It consists of various elements that define the layout and user interface components. The main components include:
+
 Header: Contains the title and any additional information about the application.
+
 Input Field: Allows users to enter new tasks.
+
 Task List: Displays the list of tasks added by the user.
+
 Task Item: Represents each individual task within the task list.
+
 Buttons: Enable users to perform actions such as adding, editing, deleting, and marking tasks as completed.
+
 
 #2__CSS Styling:
 CSS styling is used to enhance the visual appearance and layout of the To-Do List Application. It includes styling for:
